@@ -43,13 +43,13 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/glokon/guacamole-lite/issues"
+    "url": "https://github.com/hurdlegroup/guacamole-lite/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/glokon/guacamole-lite.git"
+    "url": "https://github.com/hurdlegroup/guacamole-lite.git"
   },
-  "homepage": "https://github.com/glokon/guacamole-lite",
+  "homepage": "https://github.com/hurdlegroup/guacamole-lite",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"
