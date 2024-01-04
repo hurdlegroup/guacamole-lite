@@ -1,3 +1,24 @@
+# [0.14.0](https://github.com/hurdlegroup/guacamole-lite/compare/v0.13.0...v0.14.0) (2024-01-04)
+
+
+### Bug Fixes
+
+* **app:** update references ([e621095](https://github.com/hurdlegroup/guacamole-lite/commit/e6210951d21d7db10349a74896212b3ef1db3467))
+* **build:** update to alpine ([b291e73](https://github.com/hurdlegroup/guacamole-lite/commit/b291e73d98d26ab622f38bda621f27df6ac176f6))
+* **ci:** build on all ([2fc101a](https://github.com/hurdlegroup/guacamole-lite/commit/2fc101a956dccc7391f271a8a9c9f50933943e34))
+* **ci:** fix build ([704cd51](https://github.com/hurdlegroup/guacamole-lite/commit/704cd5143983fbebf1f82f0745509da6d285e5d2))
+* **ci:** update packages ([b2b6386](https://github.com/hurdlegroup/guacamole-lite/commit/b2b638622ebbe252408fefa86f824f88b3a97334))
+* **docker:** fix permissions of supervisor ([2856e76](https://github.com/hurdlegroup/guacamole-lite/commit/2856e76944e4f982c8ecb90fe22b052298ff55d8))
+* **guac:** improve efficiency ([1b8c609](https://github.com/hurdlegroup/guacamole-lite/commit/1b8c6092848d8510019e69a7315efcf09746ae2c))
+* **guacws:** fix permissions ([b920f06](https://github.com/hurdlegroup/guacamole-lite/commit/b920f06c51896736c7a1f0172e7545c9b8cbea18))
+* **ref:** fix references ([3df156b](https://github.com/hurdlegroup/guacamole-lite/commit/3df156bd8d48d05a72fb81b3d81ee84861ad5b01))
+* **rename:** Update package.json ([2db81ec](https://github.com/hurdlegroup/guacamole-lite/commit/2db81ecb5ba1128ac6603b9bab2ff1fa1ea4900f))
+
+
+### Features
+
+* **app:** add support for SSL certificate as part of the container ([7af3597](https://github.com/hurdlegroup/guacamole-lite/commit/7af3597e8d66fad7bc2a1011ce60bdba7b5a521a))
+
 ## [0.14.2](https://github.com/hurdlegroup/guacamole-lite/compare/v0.14.1...v0.14.2) (2024-01-04)
 
 
