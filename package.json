@@ -1,5 +1,5 @@
 {
-  "name": "@glokon/guacws",
+  "name": "@hurdlegroup/guacamole-lite",
   "description": "Standalone WebSocket Guacamole server in node.js. RDP/VNC/SSH client for HTML5 browsers",
   "version": "0.0.0-development",
   "author": {
@@ -43,13 +43,13 @@
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/glokon/guacws/issues"
+    "url": "https://github.com/hurdlegroup/guacamole-lite/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/glokon/guacws.git"
+    "url": "https://github.com/hurdlegroup/guacamole-lite.git"
   },
-  "homepage": "https://github.com/glokon/guacws",
+  "homepage": "https://github.com/hurdlegroup/guacamole-lite",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"

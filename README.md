@@ -1,5 +1,5 @@
-[![Builld](https://github.com/GLOKON/guacws/actions/workflows/release.yml/badge.svg)](https://github.com/GLOKON/guacws/actions/workflows/release.yml)
-[![CodeQL](https://github.com/GLOKON/guacws/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/GLOKON/guacws/actions/workflows/codeql-analysis.yml)
+[![Builld](https://github.com/hurdlegroup/guacamole-lite/actions/workflows/release.yml/badge.svg)](https://github.com/hurdlegroup/guacamole-lite/actions/workflows/release.yml)
+[![CodeQL](https://github.com/hurdlegroup/guacamole-lite/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/hurdlegroup/guacamole-lite/actions/workflows/codeql-analysis.yml)
 # guacws
 
 This is a fork of the hard work done by **Vadim Pronin** https://github.com/vadimpronin/guacws
@@ -19,7 +19,7 @@ This diagram describes the architecture of Guacamole and the role of *guacws* in
 ## Installation
 
 ```
-npm install --save @glokon/guacws
+npm install --save @hurdlegroup/guacamole-lite
 ```
 
 ## Code Example
