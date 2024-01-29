@@ -1,3 +1,10 @@
+## [0.14.1](https://github.com/hurdlegroup/guacamole-lite/compare/v0.14.0...v0.14.1) (2024-01-29)
+
+
+### Bug Fixes
+
+* **server:** use older guacd ([e8c7c02](https://github.com/hurdlegroup/guacamole-lite/commit/e8c7c02366058073fb084a80b95ee6e0011e600d))
+
 # [0.14.0](https://github.com/hurdlegroup/guacamole-lite/compare/v0.13.0...v0.14.0) (2024-01-04)
 
 
